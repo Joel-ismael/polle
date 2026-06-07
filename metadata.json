@@ -1,0 +1,6 @@
+{
+  "name": "Guide Pratique JS DOMGUIA TAKAM",
+  "description": "Interactive workspace for exploring, running, and creating JavaScript code examples from the course document, pre-configured for VS Code with student credentials: DOMGUIA TAKAM JOEL ISMAEL_23V2313",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
